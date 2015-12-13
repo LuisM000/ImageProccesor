@@ -1,0 +1,164 @@
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe.config
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Accord.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Accord.Math.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Accord.Statistics.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\AForge.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\AForge.Math.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Autofac.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Accord.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Accord.Math.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Accord.Statistics.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\AForge.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\AForge.Math.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Autofac.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\Resources\Colors.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\Services\UI\Progress.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ImageWindow.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\MainWindow.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ProcessWindow.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\Services\UI\Progress.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\App.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor_MarkupCompile.cache
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor_MarkupCompile.lref
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\App.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ImageWindow.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\MainWindow.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ProcessWindow.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.g.resources
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.Properties.Resources.resources
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csproj.GenerateResource.Cache
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.exe
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.pdb
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.exe.config
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Accord.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Accord.Math.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Accord.Statistics.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\AForge.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\AForge.Math.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Autofac.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Accord.xml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Accord.Math.xml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Accord.Statistics.xml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\AForge.xml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\AForge.Math.xml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Autofac.xml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\Resources\Colors.baml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\Services\UI\Progress.baml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageWindow.g.cs
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\MainWindow.g.cs
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ProcessWindow.g.cs
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\Services\UI\Progress.g.cs
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\App.g.cs
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor_MarkupCompile.cache
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor_MarkupCompile.lref
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\App.baml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageWindow.baml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\MainWindow.baml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ProcessWindow.baml
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.g.resources
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.Properties.Resources.resources
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.exe
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.pdb
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Debug\ImageProcessor.pdb
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Debug\ImageProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\ImageProcessor.exe.config
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ImageProcessor.exe
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ImageProcessor.pdb
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\ImageProcessor.exe
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\ImageProcessor.pdb
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Accord.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Accord.MachineLearning.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Accord.Math.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Accord.Statistics.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\AForge.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\AForge.Math.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Autofac.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Microsoft.Windows.Shell.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\RibbonControlsLibrary.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Accord.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Accord.MachineLearning.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Accord.Math.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Accord.Statistics.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\AForge.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\AForge.Math.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Autofac.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Microsoft.Windows.Shell.pdb
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\Microsoft.Windows.Shell.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\RibbonControlsLibrary.pdb
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\RibbonControlsLibrary.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\System.Windows.Interactivity.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ImageProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\Resources\Colors.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\Services\UI\Progress.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ImageWindow.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\MainWindow.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ProcessWindow.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\Services\UI\Progress.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\App.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ImageProcessor_MarkupCompile.cache
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ImageProcessor_MarkupCompile.lref
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\App.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ImageWindow.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\MainWindow.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ProcessWindow.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ImageProcessor.g.resources
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ImageProcessor.Properties.Resources.resources
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Debug\ImageProcessor.csproj.GenerateResource.Cache
+C:\Users\Luis\Desktop\ImageProcessor_0.3.4\ImageProcessor\bin\Debug\ImageProcessor.exe.config
+C:\Users\Luis\Desktop\ImageProcessor_0.3.4\ImageProcessor\obj\Debug\ImageProcessor.exe
+C:\Users\Luis\Desktop\ImageProcessor_0.3.4\ImageProcessor\obj\Debug\ImageProcessor.pdb

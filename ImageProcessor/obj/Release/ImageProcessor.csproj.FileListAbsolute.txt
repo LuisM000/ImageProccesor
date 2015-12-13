@@ -1,0 +1,110 @@
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\ImageProcessor.exe.config
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\ImageProcessor.exe
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\ImageProcessor.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Accord.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Accord.MachineLearning.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Accord.Math.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Accord.Statistics.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\AForge.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\AForge.Math.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Autofac.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Microsoft.Windows.Shell.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\RibbonControlsLibrary.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Accord.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Accord.MachineLearning.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Accord.Math.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Accord.Statistics.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\AForge.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\AForge.Math.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Autofac.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Microsoft.Windows.Shell.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\Microsoft.Windows.Shell.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\RibbonControlsLibrary.pdb
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\RibbonControlsLibrary.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\System.Windows.Interactivity.xml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\Resources\Colors.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\Services\UI\Progress.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageWindow.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\MainWindow.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ProcessWindow.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\Services\UI\Progress.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\App.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor_MarkupCompile.cache
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor_MarkupCompile.lref
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\App.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageWindow.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\MainWindow.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ProcessWindow.baml
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.g.resources
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.Properties.Resources.resources
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.csproj.GenerateResource.Cache
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.exe
+C:\Users\Luis\Documents\Visual Studio 2013\Projects\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.pdb
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\bin\Release\ImageProcessor.exe.config
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.exe
+C:\Users\Luis\Desktop\ImageProcessor\ImageProcessor\obj\Release\ImageProcessor.pdb
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\ImageProcessor.exe.config
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ImageProcessor.exe
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ImageProcessor.pdb
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\ImageProcessor.exe
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\ImageProcessor.pdb
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Accord.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Accord.MachineLearning.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Accord.Math.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Accord.Statistics.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\AForge.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\AForge.Math.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Autofac.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Microsoft.Windows.Shell.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\RibbonControlsLibrary.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\System.Windows.Interactivity.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Accord.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Accord.MachineLearning.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Accord.Math.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Accord.Statistics.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\AForge.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\AForge.Math.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Autofac.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Microsoft.Windows.Shell.pdb
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\Microsoft.Windows.Shell.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\RibbonControlsLibrary.pdb
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\RibbonControlsLibrary.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\System.Windows.Interactivity.xml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\de\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\en\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\es\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\fr\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\it\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\ja\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\ko\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\bin\Release\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ImageProcessor.csprojResolveAssemblyReference.cache
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\Resources\Colors.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\Services\UI\Progress.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ImageWindow.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\MainWindow.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ProcessWindow.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\Services\UI\Progress.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\App.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ImageProcessor_MarkupCompile.cache
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ImageProcessor_MarkupCompile.lref
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\App.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ImageWindow.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\MainWindow.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ProcessWindow.baml
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ImageProcessor.g.resources
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ImageProcessor.Properties.Resources.resources
+C:\Users\Luis\Desktop\ImageProcessor_0.3.3\ImageProcessor\obj\Release\ImageProcessor.csproj.GenerateResource.Cache
